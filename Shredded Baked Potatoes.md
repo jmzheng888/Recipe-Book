@@ -2,6 +2,8 @@
 
 This is my favorite potato recipe. My mom makes it every Thanksgiving! It combines a lot of great ingredients -- potatoes, bacon (!), onions and cheese -- what could go wrong?
 
+![Shredded Baked Potato](https://github.com/jmzheng888/Recipe-Book/blob/master/Picture/Shredded%20Baked%20Potatoes.JPG)
+
 **Serving Size:** 6
 
 ### Ingredients
