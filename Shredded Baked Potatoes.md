@@ -4,7 +4,7 @@ This is my favorite potato recipe. My mom makes it every Thanksgiving! It combin
 
 <img src="Picture/Shredded%20Baked%20Potatoes.JPG" width="250px"/>
 
-**Serving Size:** 6
+**Serving Size:** 10
 
 ### Ingredients
 
@@ -29,5 +29,5 @@ This is my favorite potato recipe. My mom makes it every Thanksgiving! It combin
 9. Add in the onions in the pan and cook until the onions are light brown.
 10. Add in the potatoes, butter, salt and pepper to taste. Cook until the ingredients are fully mixed.
 11. Oil a casserole dish and add the potato mixture in. Place it in the oven.
-12. Let the potatoes cook for 30-45 min or until golden brown on the top. Optional: Before the potatoes are fully golden brown on the top, add cheese and let it melt.
+12. Let the potatoes cook for 30-45 min or until golden brown on the top. _Optional: Before the potatoes are fully golden brown on the top, add cheese and let it melt._
 13. Enjoy!
