@@ -1,4 +1,4 @@
-# Mr. Egerter's Teriyaki Salmon
+# Mr. Egerter's Teriyaki Salmon Recipe
 
 After I had graduated from Mudd, a few of my friends went on a small backpacking trip in Point Reyes. Before heading out, my friend Risa's dad made us an amazing dinner, including this salmon!
 
