@@ -20,3 +20,5 @@ I have been cooking more while sheltering in place. I saw a picture of Gochujang
 3. On a baking sheet, add chicken drumsticks in an even layer. Place in the oven to bake.
 4. After 15 minutes, brush the extra Gochujang sauce as a glaze. Keep brushing evey 5 minutes or so until the chicken is fully cooked, about 25-30 minutes. When the chicken is fully cooked, broil for 5-8 minutes to get those charred, crispy bits.
 5. Garnish with sesame seeds and green onion (optional). Serve immediately or at room temperature.
+
+Recipe Link: https://thesubversivetable.com/gochujang-chicken-drumsticks/
