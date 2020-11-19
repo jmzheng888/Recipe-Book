@@ -10,7 +10,7 @@ This is a well-loved banana bread recipe from my friend from school. It's simple
 * 1 cup sugar
 * 1.5 cups all purpose flour
 * 1 egg
-* 1/3 cup melted sugar
+* 1/3 cup melted butter
 * 1 tsp vanilla
 * 1 tsp baking soda
 * Chocolate chips (optional)
